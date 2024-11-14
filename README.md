@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @ErickRoro
-- 👀 I’m Computer Science Junior with a passion for cybersecurity and programming.
-- 🌱 I’m currently learning Data Mining and Java
+# Hi there, I'm Erick Rosas! 👋
 
+- 🎓 Junior in Computer Science, passionate about programming and cybersecurity.
+- 🔭 Currently working on Java and Python projects.
+- 🌱 Learning more about cybersecurity tools and practices.
+- 📫 Reach me at: erick.rosas@example.com
 
-<!---
-ErickRoro/ErickRoro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Skills
+- Programming Languages: Java, Python, Bash
+- Tools: Kali Linux, Nmap, Wireshark, Git
+- Technologies: OOP, Networking, Ethical Hacking
